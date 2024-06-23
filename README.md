@@ -31,7 +31,7 @@ To use the Libft library in your C projects, follow these steps:
 
 1. Clone the Libft repository:
    ```sh
-   git clone https://github.com/rofnavarro/42-libft.git
+   git clone git@github.com:rofnavarro/42-libft.git
    cd 42-libft
    ```
 
@@ -88,7 +88,7 @@ Para usar a biblioteca Libft em seus projetos em C, siga estas etapas:
 
 1. Clone o repositório Libft:
    ```sh
-   git clone https://github.com/rofnavarro/libft.git
+   git clone git@github.com:rofnavarro/42-libft.git
    cd libft
    ```
 
